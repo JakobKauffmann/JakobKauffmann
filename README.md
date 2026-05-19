@@ -39,16 +39,4 @@
 - **Noise-Robust Multi-Modal Voice Authentication** — Dual-branch SincNet + MobileNetV2 speaker verification on VoxCeleb1; sub-millisecond inference with MUSAN noise augmentation.
 - **AI-Generated Text Detection** — Multi-model framework (MLP/CNN/AdaBoost) on SBERT embeddings + Vector-to-Grayscale conversion; 99.9% accuracy classifying human vs. GPT-3.5/Llama-3.2 text.
 
-## 📊 Languages
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobkauffmann&hide_progress=true&langs_count=12&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobkauffmann&hide_progress=true&langs_count=12&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobkauffmann&show_icons=true" />
-</picture>
+[![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JakobKauffmann/github-readme-stats)
