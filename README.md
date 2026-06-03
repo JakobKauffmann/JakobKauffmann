@@ -9,7 +9,6 @@
 ## 🛠️ Currently
 
 - 🎓 Defended my MS thesis (May 2026): *Targeted Bottlenecking of Self-Supervised Speech Layers for Generalizable Audio Deepfake Detection*
-- 📖 Co-authored a forthcoming book chapter on speech deepfake detection (edited volume by Dr. Mark Stamp)
 - 💼 Looking for new-grad **Software Engineering** / **ML Engineering** roles starting summer 2026
 
 ## 💼 Experience
