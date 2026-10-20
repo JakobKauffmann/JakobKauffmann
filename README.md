@@ -37,7 +37,7 @@
 - **Thesis and ICTAI 2026 paper:** why audio deepfake detectors trained on one dataset break down on unfamiliar recording channels, codecs, and speech synthesizers. The work places variational information bottlenecks and adversarial domain discriminators on groups of layers in self-supervised speech models (WavLM, XLS-R, Wav2Vec2, Data2Vec) and studies where in the model the bottleneck helps most. The thesis and code are under embargo until after ICTAI Proceedings.
 - **Book chapter:** *Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges*, in *Artificial Intelligence for Cyber Defense in Emerging Threats* (ed. Dr. Mark Stamp; Springer, forthcoming 2027).
 
-## 🧪 Projects
+## Projects
 
 - **[Noise-Robust Voice Authentication](https://github.com/JakobKauffmann/Noise-Robust-Voice-Auth):** speaker verification fusing SincNet (raw waveform) and MobileNetV2 (mel spectrogram) embeddings on VoxCeleb1, trained with MUSAN noise augmentation. Report and slides included.
 - **[AI-Generated Text Detection](https://github.com/JakobKauffmann/ai-text-detection):** compares MLP, CNN, and AdaBoost classifiers on SBERT, InferSent, and USE embeddings to separate human-written text from GPT and Llama output. With Christofer Berruz.
