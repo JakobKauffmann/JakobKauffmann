@@ -6,21 +6,23 @@
   🌐 <a href="https://jakobkauffmann.github.io">jakobkauffmann.github.io</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=LZN0dxQAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/jakobkauffmann">LinkedIn</a> &nbsp;·&nbsp; 📫 <a href="mailto:jakobkauffmann@gmail.com">jakobkauffmann@gmail.com</a>
 </p>
 
-## 🛠️ Currently
+## About
 
-- 🎓 Finished my MS in Computer Science at San José State University in May 2026
-- 📄 First-author paper accepted at IEEE ICTAI 2026; first-author book chapter forthcoming from Springer (2027)
-- 💼 Looking for new grad roles in ML engineering, research engineering, AI engineering, and software engineering, especially on ML and AI research teams. Available now.
+- Finished my MS in Computer Science at San José State University in May 2026
+- First-author paper accepted at IEEE ICTAI 2026; first-author book chapter forthcoming from Springer (2027)
+- Looking for new grad roles in ML engineering, research engineering, AI engineering, and software engineering, especially on ML and AI research teams. Available now.
 
-## 💼 Experience
+## Experience
 
 #### Apple · Software Engineering Intern, iOS Accessibility Team (Wearables) &nbsp;·&nbsp; *May 2025 – Aug 2025*
-- Ported a hearing accessibility feature from iOS to watchOS in Swift and Objective-C under the feature owner's direction: carried over the playback daemon, built a watch-native Settings UI and backend asset delivery, and reached parity with iOS across Settings, Control Center, Shortcuts, and Widgets. Merged to main before the internship ended.
+- Ported a hearing accessibility feature from iOS to watchOS in Swift and Objective-C under the feature owner's direction
+- Carried over the playback daemon, built a watch-native Settings UI and backend asset delivery, and reached parity with iOS across Settings, Control Center, Shortcuts, and Widgets. Merged to main codebase under a feature flag.
 - Designed a device-to-device state synchronization layer that hands off the accessibility feature's audio across wearables and wireless audio devices, keeping playback source, position, and timestamp through transfers and reconnects. Merged to the main codebase for testing and future release.
 - Assisted in refactoring wearables code that went into production.
+- Merged code that will meet Users' hearing accessibility needs seamlessly across devices and on a wearable device for the first time.
 - Demoed the work to the 50+ person Accessibility team, and separately to the Accessibility director and managers.
 
-## 🎓 Education
+## Education
 
 #### San José State University &nbsp;·&nbsp; *May 2026*
 **Master of Science, Computer Science** &nbsp;·&nbsp; Advisor: Dr. Faranak Abri
@@ -30,11 +32,11 @@
 #### University of Virginia &nbsp;·&nbsp; *Aug 2020 – Aug 2023*
 **Bachelor of Arts, Computer Science** &nbsp;·&nbsp; Minor in Data Science
 - Echols Scholar
-- Coursework in Music Composition and Audio Engineering
+- Coursework in Data Structures & Algorithms, Machine Learning, Data Science, Cybersecurity, and Audio Engineering
 
 ## 🔬 Research
 
-- **Thesis and ICTAI 2026 paper:** why audio deepfake detectors trained on one dataset break down on unfamiliar recording channels, codecs, and speech synthesizers. The work places variational information bottlenecks and adversarial domain discriminators on groups of layers in self-supervised speech models (WavLM, XLS-R, Wav2Vec2, Data2Vec) and studies where in the model the bottleneck helps most. The thesis and code are under embargo until May 2027.
+- **Thesis and ICTAI 2026 paper:** why audio deepfake detectors trained on one dataset break down on unfamiliar recording channels, codecs, and speech synthesizers. The work places variational information bottlenecks and adversarial domain discriminators on groups of layers in self-supervised speech models (WavLM, XLS-R, Wav2Vec2, Data2Vec) and studies where in the model the bottleneck helps most. The thesis and code are under embargo until after ICTAI Proceedings.
 - **Book chapter:** *Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges*, in *Artificial Intelligence for Cyber Defense in Emerging Threats* (ed. Dr. Mark Stamp; Springer, forthcoming 2027).
 
 ## 🧪 Projects
