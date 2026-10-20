@@ -32,7 +32,7 @@
 - Echols Scholar
 - Coursework in Data Structures & Algorithms, Machine Learning, Data Science, Cybersecurity, and Audio Engineering
 
-## 🔬 Research
+## Research
 
 - **Thesis and ICTAI 2026 paper:** why audio deepfake detectors trained on one dataset break down on unfamiliar recording channels, codecs, and speech synthesizers. The work places variational information bottlenecks and adversarial domain discriminators on groups of layers in self-supervised speech models (WavLM, XLS-R, Wav2Vec2, Data2Vec) and studies where in the model the bottleneck helps most. The thesis and code are under embargo until after ICTAI Proceedings.
 - **Book chapter:** *Speech Deepfake Detection: A Survey of Methods, Benchmarks, and Generalization Challenges*, in *Artificial Intelligence for Cyber Defense in Emerging Threats* (ed. Dr. Mark Stamp; Springer, forthcoming 2027).
