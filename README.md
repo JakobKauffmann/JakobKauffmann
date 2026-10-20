@@ -1,9 +1,7 @@
-<h1 align="center">👋🏻 Hi, I'm Jakob Kauffmann</h1>
+<h1 align="center">Jakob Kauffmann</h1>
 
 <p align="center">
-  🎓 MS CS, <a href="https://www.sjsu.edu/cs/">San José State University</a> &nbsp;·&nbsp; 🍎 Former SWE Intern @ Apple &nbsp;·&nbsp; 🔬 Speech and audio ML
-  <br/>
-  🌐 <a href="https://jakobkauffmann.github.io">jakobkauffmann.github.io</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=LZN0dxQAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/jakobkauffmann">LinkedIn</a> &nbsp;·&nbsp; 📫 <a href="mailto:jakobkauffmann@gmail.com">jakobkauffmann@gmail.com</a>
+   <a href="https://jakobkauffmann.github.io">jakobkauffmann.github.io</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=LZN0dxQAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/jakobkauffmann">LinkedIn</a> &nbsp;·&nbsp; 📫 <a href="mailto:jakobkauffmann@gmail.com">jakobkauffmann@gmail.com</a>
 </p>
 
 ## About
