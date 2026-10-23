@@ -13,11 +13,11 @@
 ## Experience
 
 #### Apple · Software Engineering Intern, iOS Accessibility Team (Wearables) &nbsp;·&nbsp; *May 2025 – Aug 2025*
-- Ported a hearing accessibility feature from iOS to watchOS in Swift and Objective-C under the feature owner's direction
-- Carried over the playback daemon, built a watch-native Settings UI and backend asset delivery, and reached parity with iOS across Settings, Control Center, Shortcuts, and Widgets. Merged to main codebase under a feature flag.
-- Designed a device-to-device state synchronization layer that hands off the accessibility feature's audio across wearables and wireless audio devices, keeping playback source, position, and timestamp through transfers and reconnects. Merged to the main codebase for testing and future release.
+- Proposed bringing an accessibility feature that existed only on iOS to Apple Watch as my intern project, and ported it in Swift and Objective-C with guidance from my mentor, the feature owner
+- Carried over the feature's system daemon, built a watch-native Settings UI, wrapped the iOS backend asset-delivery path to work on watchOS, and reached parity with iOS across Settings, Control Center, Shortcuts, and Widgets. Merged to main behind its own feature flag.
+- Designed a device-to-device state synchronization layer, largely independently, that keeps the feature's continuity across the user's devices, with a prioritized resync on reconnect. Merged to main behind a separate feature flag for testing and future release.
 - Assisted in refactoring wearables code that went into production.
-- Merged code that will meet Users' hearing accessibility needs seamlessly across devices and on a wearable device for the first time.
+- Merged code that brings the accessibility feature to a wearable device for the first time and keeps it seamless across devices.
 - Demoed the work to the 50+ person Accessibility team, and separately to the Accessibility director and managers.
 
 ## Education
